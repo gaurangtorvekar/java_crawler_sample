@@ -16,8 +16,6 @@ We would like to see what you can produce in a couple of hours – please don’
 - briefly describe any tradeoffs you make through comments and / or in a README file
 - include the steps needed to build and run your solution
    
-Once done, please make your solution available on Github and forward the link with brief instruction on how to run it
-
 ## Description
 This project is using **crawler4j** internally to crawl pages.
 
